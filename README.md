@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="99">
   <img src="https://img.icons8.com/?size=512&id=kTuxVYRKeKEY&format=png" width="99">
 </p>
-<h1 align="center">README-AI</h1>
+<h1 align="center"><a href="https://seoultra.id/" target="_blank">SEOULTRA</a></h1>
 <p align="center">
   <em>Automated <code>README</code> file generator, powered by large language model APIs</em>
 </p>
